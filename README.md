@@ -3,11 +3,11 @@ Sistema informatico para el control/administracion de la informacion/procesos de
 
 El sistema cumple con las siguientes caracteristicas:
   1. Muestra la informacion basica del host
-    ..*Sistema Operativo - version
-    *Nombre
-    *Ram
-    *Procesador
-    *Marca - Modelo
+    ..* Sistema Operativo - version
+    * Nombre
+    * Ram
+    * Procesador
+    * Marca - Modelo
   2. Muestra en tiempo real, las aplicaciones que se estan ejecturando. Puede detener una aplicacion a peticion del usuario.
   3. Muestra en tiempo real el listado de los servicios que se ejectan en backgroud, los cuales se puede detener/lanzar.
   4. Rendimiento de CPU y Memoria RAM.
