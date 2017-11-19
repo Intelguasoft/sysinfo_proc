@@ -17,4 +17,7 @@ El sistema cumple con las siguientes caracteristicas:
 El software se desarrollo en PHP para que pueda ser lanzado de manera local o remota (web) y sea multiplataforma (Windows, Linux y Mac)
 
 El software fue desarrollado por Roxana Magaña - Carné **4890-13-3810**
+
 Estudiante de Ingeniería en Sistemas - UMG Morales
+
+![Roxana Magaña](https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-9/17626508_1285725551477415_1020510884447190402_n.jpg?oh=391626f4038a7744bcef55a530ff501f&oe=5AA5958D "Roxana Magaña")
