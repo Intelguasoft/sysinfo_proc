@@ -3,7 +3,7 @@ Sistema informatico para el control/administracion de la informacion/procesos de
 
 El sistema cumple con las siguientes caracteristicas:
   1. Muestra la informacion basica del host
-    *Sistema Operativo - version
+    ..*Sistema Operativo - version
     *Nombre
     *Ram
     *Procesador
